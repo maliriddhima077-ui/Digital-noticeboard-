@@ -1,0 +1,12 @@
+{
+  "name": "digital-noticeboard-prototype",
+  "version": "1.0.0",
+  "description": "A simple Digital Notice Board prototype with in-memory DS, FSM lifecycle, and SSE push notifications.",
+  "main": "digital_noticeboard_prototype.js",
+  "scripts": {
+    "start": "node digital_noticeboard_prototype.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
